@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a rookie programmer and am currently a graduate student majoring in computer science
+
+🌱 I’m currently learning Reinforcement Learning.
+
+✍ I regularly update my blog on https://dufolk.github.io
+
+Welcome!
