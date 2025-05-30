@@ -28,3 +28,8 @@ I am a rookie programmer and am currently a graduate student majoring in compute
 ✍ I regularly update my blog on https://dufolk.github.io
 
 Welcome!
+
+```mermaid
+flowchart TD
+id
+```
