@@ -29,7 +29,3 @@ I am a rookie programmer and am currently a graduate student majoring in compute
 
 Welcome!
 
-```mermaid
-flowchart TD
-id
-```
